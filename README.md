@@ -1,9 +1,9 @@
 # 论坛大师 – Discuz!
-[![GitHub](https://img.shields.io/badge/论坛大师-GitHub-blue?logo=GitHub)](https://github.com/hishis/forum-grandmaster-for-discuz)
+[![GitHub](https://img.shields.io/badge/论坛大师-GitHub-blue?logo=GitHub)](https://github.com/TT-IPIP/discuz)
 [![Greasy Fork](https://img.shields.io/badge/论坛大师-Greasy%20Fork-blue?logo=Socket.io)](https://greasyfork.org/scripts/400250)
 [![Mozilla Public License](https://img.shields.io/badge/License-MPL-blue?logo=Open%20Source%20Initiative)](https://www.mozilla.org/MPL/2.0/)
-[![Repo size](https://img.shields.io/github/repo-size/hishis/forum-grandmaster-for-discuz?logo=Git)](https://github.com/hishis/forum-grandmaster-for-discuz)
-[![Code size](https://img.shields.io/github/languages/code-size/hishis/forum-grandmaster-for-discuz?logo=CodeSandbox)](https://github.com/hishis/forum-grandmaster-for-discuz)
+[![Repo size](https://img.shields.io/github/repo-size/TT-IPIP/discuz?logo=Git)](https://github.com/TT-IPIP/discuz)
+[![Code size](https://img.shields.io/github/languages/code-size/TT-IPIP/discuz?logo=CodeSandbox)](https://github.com/TT-IPIP/discuz)
 
 ### 功能简介
 * 界面美化
@@ -65,11 +65,11 @@
 Latest ✔ | Latest ✔ | Latest ✔ | Latest ❌ | Latest ✔ | Latest ✔ |
 
 ### 开源地址
-[Forum Grandmaster for Discuz! – GitHub](https://github.com/hishis/forum-grandmaster-for-discuz)
+[Forum Grandmaster for Discuz! – GitHub](https://github.com/TT-IPIP/discuz)
 
 [Forum Grandmaster for Discuz! – Greasy Fork](https://greasyfork.org/scripts/400250)
 
 ### 安装地址（任选其一）
-[Click to install Forum Grandmaster for Discuz! – GitHub](https://cdn.jsdelivr.net/gh/hishis/forum-grandmaster-for-discuz/main.user.js)
+[Click to install Forum Grandmaster for Discuz! – GitHub](https://cdn.jsdelivr.net/gh/TT-IPIP/discuz/main.user.js)
 
 [Click to install Forum Grandmaster for Discuz! – Greasy Fork](https://greasyfork.org/scripts/400250)
